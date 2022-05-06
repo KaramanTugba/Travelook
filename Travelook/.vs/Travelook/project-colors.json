@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa137917-d609-44a2-9ef0-694a72df305e": {
+      "ProjectGuid": "aa137917-d609-44a2-9ef0-694a72df305e",
+      "DisplayName": "Travelook",
+      "ColorIndex": 0
+    },
+    "73803c94-0351-40ba-80ab-345e18acd81e": {
+      "ProjectGuid": "73803c94-0351-40ba-80ab-345e18acd81e",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 1
+    },
+    "11231ddb-d51a-4677-8c07-2a82bac6c1bc": {
+      "ProjectGuid": "11231ddb-d51a-4677-8c07-2a82bac6c1bc",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 2
+    },
+    "2d64a916-9828-42bc-ba3f-86ec5a85b6c1": {
+      "ProjectGuid": "2d64a916-9828-42bc-ba3f-86ec5a85b6c1",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
